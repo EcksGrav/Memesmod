@@ -1,0 +1,16 @@
+[
+{
+  "modid": "memesmod",
+  "name": "Memes Chat Mod",
+  "description": "Memes chat mod for ecksian learning",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Ecks"],
+  "credits": "The Forge and FML guys, for making this example for ecksian learning",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
